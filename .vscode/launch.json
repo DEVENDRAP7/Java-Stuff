@@ -1,0 +1,189 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "HashmapCT",
+            "request": "launch",
+            "mainClass": "HashmapCT",
+            "projectName": "java project_81b12a46"
+        },
+        {
+            "type": "java",
+            "name": "ShellSort",
+            "request": "launch",
+            "mainClass": "ShellSort",
+            "projectName": "java project_81b12a46"
+        },
+        {
+            "type": "java",
+            "name": "HeapSort",
+            "request": "launch",
+            "mainClass": "HeapSort",
+            "projectName": "java project_81b12a46"
+        },
+        {
+            "type": "java",
+            "name": "InsertionSort",
+            "request": "launch",
+            "mainClass": "InsertionSort",
+            "projectName": "java project_81b12a46"
+        },
+        {
+            "type": "java",
+            "name": "SelectionSort",
+            "request": "launch",
+            "mainClass": "SelectionSort",
+            "projectName": "java project_81b12a46"
+        },
+        {
+            "type": "java",
+            "name": "Bubblesort",
+            "request": "launch",
+            "mainClass": "Bubblesort",
+            "projectName": "java project_81b12a46"
+        },
+        {
+            "type": "java",
+            "name": "ArrayShift",
+            "request": "launch",
+            "mainClass": "ArrayShift",
+            "projectName": "java project_81b12a46"
+        },
+        {
+            "type": "java",
+            "name": "Stack",
+            "request": "launch",
+            "mainClass": "Stack",
+            "projectName": "java project_81b12a46"
+        },
+        {
+            "type": "java",
+            "name": "Pattern5",
+            "request": "launch",
+            "mainClass": "Pattern5",
+            "projectName": "java project_81b12a46"
+        },
+        {
+            "type": "java",
+            "name": "Pattern4",
+            "request": "launch",
+            "mainClass": "Pattern4",
+            "projectName": "java project_81b12a46"
+        },
+        {
+            "type": "java",
+            "name": "Pattern3",
+            "request": "launch",
+            "mainClass": "Pattern3",
+            "projectName": "java project_81b12a46"
+        },
+        {
+            "type": "java",
+            "name": "Pattern2",
+            "request": "launch",
+            "mainClass": "Pattern2",
+            "projectName": "java project_81b12a46"
+        },
+        {
+            "type": "java",
+            "name": "Pattern1",
+            "request": "launch",
+            "mainClass": "Pattern1",
+            "projectName": "java project_81b12a46"
+        },
+        {
+            "type": "java",
+            "name": "FindSum",
+            "request": "launch",
+            "mainClass": "FindSum",
+            "projectName": "java project_81b12a46"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "java project_81b12a46"
+        },
+        {
+            "type": "java",
+            "name": "Fibonacci",
+            "request": "launch",
+            "mainClass": "Fibonacci",
+            "projectName": "java project_81b12a46"
+        },
+        {
+            "type": "java",
+            "name": "FileDirectory",
+            "request": "launch",
+            "mainClass": "FileDirectory",
+            "projectName": "java project_81b12a46"
+        },
+        {
+            "type": "java",
+            "name": "FileUsingScan",
+            "request": "launch",
+            "mainClass": "FileUsingScan",
+            "projectName": "java project_81b12a46"
+        },
+        {
+            "type": "java",
+            "name": "Filecreation",
+            "request": "launch",
+            "mainClass": "Filecreation",
+            "projectName": "java project_81b12a46"
+        },
+        {
+            "type": "java",
+            "name": "Hello",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "java project_81b12a46"
+        },
+        {
+            "type": "java",
+            "name": "MatrixMul",
+            "request": "launch",
+            "mainClass": "MatrixMul",
+            "projectName": "java project_81b12a46"
+        },
+        {
+            "type": "java",
+            "name": "PrintW",
+            "request": "launch",
+            "mainClass": "PrintW",
+            "projectName": "java project_81b12a46"
+        },
+        {
+            "type": "java",
+            "name": "Quickstart",
+            "request": "launch",
+            "mainClass": "Quickstart",
+            "projectName": "java project_81b12a46"
+        },
+        {
+            "type": "java",
+            "name": "ReadFileScan",
+            "request": "launch",
+            "mainClass": "ReadFileScan",
+            "projectName": "java project_81b12a46"
+        },
+        {
+            "type": "java",
+            "name": "SimpleHttpServer",
+            "request": "launch",
+            "mainClass": "SimpleHttpServer",
+            "projectName": "java project_81b12a46"
+        }
+    ]
+}
