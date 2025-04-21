@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MergeSort",
+            "request": "launch",
+            "mainClass": "MergeSort",
+            "projectName": "java project_81b12a46"
+        },
+        {
+            "type": "java",
             "name": "HashmapCT",
             "request": "launch",
             "mainClass": "HashmapCT",

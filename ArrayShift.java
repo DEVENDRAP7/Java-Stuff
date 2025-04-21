@@ -9,7 +9,15 @@ public class ArrayShift
             System.out.print("Enter the shift amount: ");
             int shiftAmount = scanner.nextInt();
             int n = arr.length;
-            int k;
+            int k=1;
+            if (shiftAmount < 0) 
+            {
+                k = n + (shiftAmount % n);
+            } 
+            else 
+            {
+                k = shiftAmount % n;
+            }
             int[] temp = new int[n];
             for (int i = 0; i < n; i++) 
             {
