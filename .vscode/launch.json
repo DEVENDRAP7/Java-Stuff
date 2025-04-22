@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Stackers",
+            "request": "launch",
+            "mainClass": "Stackers",
+            "projectName": "java project_81b12a46"
+        },
+        {
+            "type": "java",
             "name": "MergeSort",
             "request": "launch",
             "mainClass": "MergeSort",
