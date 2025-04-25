@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RunningSum",
+            "request": "launch",
+            "mainClass": "RunningSum",
+            "projectName": "java project_81b12a46"
+        },
+        {
+            "type": "java",
+            "name": "NumberofemployeesWhoMetTheTarget",
+            "request": "launch",
+            "mainClass": "NumberofemployeesWhoMetTheTarget",
+            "projectName": "java project_81b12a46"
+        },
+        {
+            "type": "java",
             "name": "Stackers",
             "request": "launch",
             "mainClass": "Stackers",
