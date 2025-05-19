@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "GuessMyNumber",
+            "request": "launch",
+            "mainClass": "GuessMyNumber",
+            "projectName": "java project_81b12a46"
+        },
+        {
+            "type": "java",
             "name": "RunningSum",
             "request": "launch",
             "mainClass": "RunningSum",
