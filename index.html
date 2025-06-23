@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Marks Table</title>
+    <style>
+        #a{
+            color:green;
+            text-transform: uppercase;
+        }
+        table {
+            border-collapse: collapse;
+            width: 60%;
+            text-align: center;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+        }
+        a:hover{
+            color:red;
+        }
+        a:visited{
+            color:green;
+        }
+        a{
+            color:blue;
+        }
+        button:hover{
+            background-color: yellow;
+        }
+        button:visited{
+            background-color: green;
+        }
+        p::first-line {
+            font-weight: bold;
+            color: red;
+        }
+        p::before {
+            font-style: italic;
+            color: blue;
+            content:"Hetvi Patel ";
+        }
+        p::after {
+            content: " - End of paragraph";
+            font-style: italic;
+            color: green;
+            content:"She is awesome! but the most aalsu person in the whole world ... just kidding!";
+        }
+    </style>
+</head>
+<body>
+<p>hello</p>
+<p>world</p>
+<h1>Marks Table</h1>
+
+<a href="https://drive.google.com/drive/folders/18cPVUvU2g5Ha0raxoMcrcCPt4e2wQIZc" target="_blank">Google</a>
+<button onclick="alert('hello');" >Click Me</button>
+<input type="submit" value="Register">
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores illo placeat hic ad consequuntur in ipsa quisquam officiis corporis consectetur. Cum a accusantium deleniti eveniet accusamus fuga consequatur doloremque ad.</p>
+<table>
+    <tr>
+        <th colspan="2" rowspan="2">C1</th>
+        <th rowspan="2">C2</th>
+        <th colspan="2">C3</th>    
+        <tr>
+            <th>C3.1</th>
+            <th>C3.2</th>
+        </tr> 
+    </tr>
+    <tr>
+        <td rowspan="2">R1</td>
+        <td><strike>R1a</strike></td>
+        <td>123</td>
+        <td>456</td>
+        <td>789</td>
+        <tr>
+            <td>html</td>
+            <td colspan="3">E=M*C<sup>2</sup></td>
+        </tr>
+    </tr>
+</table>
+<p id="a">Text here</p>
+</body>
+</html>

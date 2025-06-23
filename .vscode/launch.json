@@ -6,6 +6,76 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FIrstLastDIgit",
+            "request": "launch",
+            "mainClass": "FIrstLastDIgit",
+            "projectName": "java project_81b12a46"
+        },
+        {
+            "type": "java",
+            "name": "NumberOfElements",
+            "request": "launch",
+            "mainClass": "NumberOfElements",
+            "projectName": "java project_81b12a46"
+        },
+        {
+            "type": "java",
+            "name": "NumberOfDigits",
+            "request": "launch",
+            "mainClass": "NumberOfDigits",
+            "projectName": "java project_81b12a46"
+        },
+        {
+            "type": "java",
+            "name": "LeetRemoveDup",
+            "request": "launch",
+            "mainClass": "LeetRemoveDup",
+            "projectName": "java project_81b12a46"
+        },
+        {
+            "type": "java",
+            "name": "MissingValue",
+            "request": "launch",
+            "mainClass": "MissingValue",
+            "projectName": "java project_81b12a46"
+        },
+        {
+            "type": "java",
+            "name": "ArrLinkedHashset",
+            "request": "launch",
+            "mainClass": "ArrLinkedHashset",
+            "projectName": "java project_81b12a46"
+        },
+        {
+            "type": "java",
+            "name": "ArrHashSet",
+            "request": "launch",
+            "mainClass": "ArrHashSet",
+            "projectName": "java project_81b12a46"
+        },
+        {
+            "type": "java",
+            "name": "HashsetPrac",
+            "request": "launch",
+            "mainClass": "HashsetPrac",
+            "projectName": "java project_81b12a46"
+        },
+        {
+            "type": "java",
+            "name": "RemoveDuplicates",
+            "request": "launch",
+            "mainClass": "RemoveDuplicates",
+            "projectName": "java project_81b12a46"
+        },
+        {
+            "type": "java",
+            "name": "DuplicateTF",
+            "request": "launch",
+            "mainClass": "DuplicateTF",
+            "projectName": "java project_81b12a46"
+        },
+        {
+            "type": "java",
             "name": "GuessMyNumber",
             "request": "launch",
             "mainClass": "GuessMyNumber",
